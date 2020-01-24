@@ -1,0 +1,31 @@
+{
+  "name": "funcoes-matematicas",
+  "version": "1.0.1",
+  "description": "Esse é um pacote para JavaScript e Node.js com funções prontas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelrisquelme/funcoes-matematicas.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "nodejs",
+    "node",
+    "funções",
+    "functions",
+    "math",
+    "functions",
+    "math",
+    "matemática"
+  ],
+  "author": "Miguel Riquelme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelrisquelme/funcoes-matematicas/issues"
+  },
+  "homepage": "https://github.com/miguelrisquelme/funcoes-matematicas#readme"
+}
