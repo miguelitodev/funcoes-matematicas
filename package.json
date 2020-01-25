@@ -1,7 +1,7 @@
 {
   "name": "funcoes-matematicas",
-  "version": "1.0.2",
-  "description": "Esse é um pacote para JavaScript e Node.js com funções prontas.",
+  "version": "1.0.3",
+  "description": "Esse é um pacote para JavaScript e Node.js com funções matemáticas prontas, sejam elas de cálculo, conversão ou até mesmo verificação.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,7 +20,10 @@
     "math",
     "functions",
     "math",
-    "matemática"
+    "matemática",
+    "calculo",
+    "equações",
+    "conversões"
   ],
   "author": "Miguel Riquelme",
   "license": "ISC",
