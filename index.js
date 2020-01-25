@@ -90,7 +90,10 @@ exports.calcularAreaCirculo = function(raio) {
     return (3.14159 * (raio * raio));
 }
 
-
+// 15.
+exports.calcularRaizQuadrada = function(numero){
+    return Math.pow(numero, 1/2);
+}
 
 // Funções de verificação
 
@@ -147,4 +150,24 @@ exports.converterCentimetroParaQuilometro = function(valorEmCentimetro){
 // 6.
 exports.converterCentimetroParaMetro = function(valorEmCentimetro){
     return valorEmCentimetro / 100;
+}
+
+// 7.
+exports.converterMetrosPorSegundosParaQuilometrosPorHora = function(valorEmMetrosPorSegundo){
+    return valorEmMetrosPorSegundo * 3.6;
+}
+
+// 8.
+exports.converterQuilometrosPorHoraParaMetrosPorSegundo = function(valorEmQuilometrosPorHora){
+    return valorEmQuilometrosPorHora / 3.6;
+}
+
+// 9.
+exports.converterLitroParaMililitro = function(valorEmLitro){
+    return valorEmLitro * 1000;
+}
+
+// 10.
+exports.converterMililitroParaLitro = function(valorEmMililitro){
+    return valorEmMililitro / 1000;
 }
