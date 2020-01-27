@@ -18,3 +18,46 @@ Para saber dos parâmetros das funções, em caso da IDE não der suporte, basta
 - Calculo: 15
 - Verificação: 2
 - Conversão: 10
+
+#### Quais tem:
+
+##### Cálculo:
+- Soma
+- Subtração
+- Divisão
+- Multiplicação
+- Área do Quadrado
+- Área do Retângulo
+- Área do Paralelogramo
+- Área do Triângulo Retângulo
+- Área do Triângulo Equilatero
+- Área do Triângulo Isósceles
+- Área do Triângulo Escaleno
+- Área do Losango
+- Área do Trapézio
+- Área do Circulo
+- Raiz Quadrada
+- Termo Geral da Progressão Aritmética
+
+##### Verificação:
+
+- Numero Par
+- Numero Impar
+
+##### Conversão:
+
+- Quilometro para Metro
+- Quilometro para Centímetro
+- Metro para Quilometro
+- Metro para Centímetro
+- Centímetro para Quilometro
+- Centímetro para Metro
+- m/s para km/h
+- km/h para m/s
+- Litro para Mililitro
+- Mililitro para Litro
+
+#### Contato:
+Caso encontre algum erro, favor reportar diretamente para mim que eu estarei fazendo os devidos reparos, obrigado!
+- Linkedin: @miguelrisquelme
+- Github: @miguelrisquelme

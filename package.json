@@ -1,6 +1,6 @@
 {
   "name": "funcoes-matematicas",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Esse é um pacote para JavaScript e Node.js com funções matemáticas prontas, sejam elas de cálculo, conversão ou até mesmo verificação.",
   "main": "index.js",
   "scripts": {

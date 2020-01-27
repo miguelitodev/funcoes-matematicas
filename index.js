@@ -95,6 +95,12 @@ exports.calcularRaizQuadrada = function(numero){
     return Math.pow(numero, 1/2);
 }
 
+// 16.
+exports.calcularTermoGeralProgressãoAritmética = function(termoGeralDesejado, primeiroTermoDaProgressao, razao){
+    var resposta = primeiroTermoDaProgressao + (termoGeralDesejado - 1) * razao;
+    return resposta;
+}
+
 // Funções de verificação
 
 // 1.
